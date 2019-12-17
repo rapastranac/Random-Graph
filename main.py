@@ -4,7 +4,6 @@ from numpy.random import seed
 from numpy.random import rand
 #from rdoclient_py3 import RandomOrgClient
 
-#key1 = 'b9473ffe-e294-4ea8-ad67-ccce0fb86ef2'
 #seed = RandomOrgClient(key1)
 #r = seed.generate_decimal_fractions(2, 4)
 
